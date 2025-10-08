@@ -1,0 +1,5 @@
+Chạy từng lệnh lần lượt các lệnh sau:
+B1. cd Source_code/
+B2. python main.py
+
+Khi hiện dòng chữ "Model loaded. Device: cuda" là đã load xong model 
